@@ -25,13 +25,13 @@ This project uses Parcel, to provide a development server with lightning-quick h
 Start by installing dependencies:
 
 ```
-npm install
+yarn
 ```
 
 Boot up a dev server:
 
 ```
-npm run start
+yarn start
 ```
 
 You should see a confirmation message like this:
